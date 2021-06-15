@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\samba\\Documents\\Projets-2021\\Unit-Test\\Store\\StoreApp\\StoreApp.Tests\\StoreApp.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\samba\\Documents\\Projets-2021\\Unit-Test\\Store\\StoreApp\\StoreApp.Tests\\StoreApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samba\\Documents\\Projets-2021\\Unit-Test\\Store\\StoreApp\\StoreApp.Tests\\StoreApp.Tests.csproj",
+        "projectName": "StoreApp.Tests",
+        "projectPath": "C:\\Users\\samba\\Documents\\Projets-2021\\Unit-Test\\Store\\StoreApp\\StoreApp.Tests\\StoreApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\samba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samba\\Documents\\Projets-2021\\Unit-Test\\Store\\StoreApp\\StoreApp.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\samba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\samba\\Documents\\Projets-2021\\Unit-Test\\Store\\StoreApp\\StoreApp\\StoreApp.csproj": {
+                "projectPath": "C:\\Users\\samba\\Documents\\Projets-2021\\Unit-Test\\Store\\StoreApp\\StoreApp\\StoreApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\samba\\Documents\\Projets-2021\\Unit-Test\\Store\\StoreApp\\StoreApp\\StoreApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samba\\Documents\\Projets-2021\\Unit-Test\\Store\\StoreApp\\StoreApp\\StoreApp.csproj",
+        "projectName": "StoreApp",
+        "projectPath": "C:\\Users\\samba\\Documents\\Projets-2021\\Unit-Test\\Store\\StoreApp\\StoreApp\\StoreApp.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
